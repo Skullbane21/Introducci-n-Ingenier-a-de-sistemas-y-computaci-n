@@ -1,0 +1,25 @@
+id,fecha,grupo_poblacional,categoria_grupo,rango_edad,plataforma,tipo_ciberacoso,incidentes_mes,gravedad,denuncio,impacto_emocional
+1,2026-01-12,Mujeres,Vulnerable,18-25,Instagram,Acoso sexual,8,5,Si,Alto
+2,2026-01-15,Mujeres,Vulnerable,26-35,Twitter/X,Insultos,6,4,No,Alto
+3,2026-01-20,Mujeres,Vulnerable,13-17,TikTok,Difusion de imagenes,5,5,Si,Alto
+4,2026-02-02,Comunidad LGBTIQ+,Vulnerable,18-25,TikTok,Discurso de odio,9,5,No,Alto
+5,2026-02-08,Comunidad LGBTIQ+,Vulnerable,26-35,Twitter/X,Amenazas,7,4,Si,Alto
+6,2026-02-14,Comunidad LGBTIQ+,Vulnerable,13-17,Instagram,Exclusion social,6,4,No,Alto
+7,2026-02-19,Afrodescendientes,Vulnerable,18-25,Facebook,Discurso de odio,7,5,No,Alto
+8,2026-03-03,Afrodescendientes,Vulnerable,26-35,Twitter/X,Insultos,5,4,Si,Medio
+9,2026-03-10,Afrodescendientes,Vulnerable,13-17,TikTok,Burlas,4,3,No,Medio
+10,2026-03-17,Indigenas,Vulnerable,18-25,Facebook,Discurso de odio,6,4,No,Alto
+11,2026-03-25,Indigenas,Vulnerable,36-50,WhatsApp,Burlas,3,3,No,Medio
+12,2026-04-01,Indigenas,Vulnerable,13-17,Instagram,Exclusion social,5,4,No,Alto
+13,2026-04-09,Personas con discapacidad,Vulnerable,18-25,Facebook,Burlas,5,4,No,Alto
+14,2026-04-16,Personas con discapacidad,Vulnerable,26-35,YouTube,Insultos,4,3,Si,Medio
+15,2026-04-22,Migrantes,Vulnerable,26-35,Facebook,Xenofobia,6,4,No,Alto
+16,2026-05-04,Migrantes,Vulnerable,36-50,WhatsApp,Amenazas,4,4,Si,Medio
+17,2026-05-11,Hombres adultos,Menor incidencia,26-35,Twitter/X,Insultos,2,2,No,Bajo
+18,2026-05-18,Hombres adultos,Menor incidencia,36-50,Facebook,Burlas,1,1,No,Bajo
+19,2026-05-26,Hombres adultos,Menor incidencia,18-25,YouTube,Insultos,3,2,No,Bajo
+20,2026-06-02,Hombres jovenes,Menor incidencia,18-25,TikTok,Burlas,3,2,No,Bajo
+21,2026-06-09,Hombres jovenes,Menor incidencia,13-17,Instagram,Exclusion social,2,2,No,Medio
+22,2026-06-16,Adultos mayores,Menor incidencia,60+,Facebook,Estafas,2,2,Si,Bajo
+23,2026-06-23,Adultos mayores,Menor incidencia,60+,WhatsApp,Insultos,1,1,No,Bajo
+24,2026-06-30,Hombres adultos,Menor incidencia,36-50,Twitter/X,Burlas,2,1,No,Bajo
